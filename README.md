@@ -3,7 +3,7 @@
 
 *run node .\index.js. 
 
-*wait for some time till a browser tap opens for authorisation.
+*wait for some time till a browser tab opens for authorisation.
 
 *Provide authorisation to your google account.
 
